@@ -1,5 +1,5 @@
 {
   "version": "2025.1",
-  "download_url": "https://github.com/pasekpsbali/updatersp/releases/download/raporsp2025.5/updateraporsp20255.zip",
-  "changelog": "Perbaikan bug pada setting pilihan kertas F4 <br/>Perbaikan tampilan pada cetak rapor P5 <br/>Perbaikan data referensi tema dan dimensi P5 <br/>Perbaikan input Nilai PTS dan Rapor untuk fitur nilai akhir pada mapel gabungan <br/>Perbaikan sistem logout yang menampilkan halaman error <br/>Perbaikan tampilan daftar kelas sesuai jenis rombel <br/>Perbaikan short data kelompok PKL pada input perencanaan PKL"
+  "download_url": "https://github.com/pasekpsbali/e-RaporSMK/releases/download/eRaporSMK20251/patcheRaporsmk20251.zip",
+  "changelog": "Update pengambilan data mata pelajaran dan Pembelajaran Dapodik <br/>Perbaikan tampilan mata pelajaran pada mapping mapel dan guru mapel <br/>Perbaikan cetak pelengkap untuk menyesuaikan dengan setting tampilan NIP/NIY <br/>Penambahan Fitur "Tambah Guru Lokal" <br/>Penambahan Fitur "Ubah Guru Mengajar" <br/>Penambahan Fitur Ubah Wali Kelas <br/>Penambahan Fitur Update Aplikasi Online"
 }
