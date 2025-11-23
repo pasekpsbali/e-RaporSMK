@@ -1,5 +1,6 @@
 {
   "version": "2025.1",
+"last_update": "28 Nopember 2025",
   "download_url": "https://github.com/pasekpsbali/e-RaporSMK/releases/download/eRaporSMK20251/patcheRaporsmk20251.zip",
   "changelog": "Update pengambilan data mata pelajaran dan Pembelajaran Dapodik <br/>Perbaikan tampilan mata pelajaran pada mapping mapel dan guru mapel <br/>Perbaikan cetak pelengkap untuk menyesuaikan dengan setting tampilan NIP/NIY <br/>Penambahan Fitur 'Tambah Guru Lokal' <br/>Penambahan Fitur 'Ubah Guru Mengajar' <br/>Penambahan Fitur Ubah Wali Kelas <br/>Penambahan Fitur Update Aplikasi Online"
 }
