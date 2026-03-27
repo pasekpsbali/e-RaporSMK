@@ -1,6 +1,63 @@
 {
   "version": "2025.1",
-"last_update": "28 Nopember 2025",
+  "last_update": "27 Maret 2026",
   "download_url": "https://github.com/pasekpsbali/e-RaporSMK/releases/download/eRaporSMK20251/patcheRaporsmk20251.zip",
-  "changelog": "Update pengambilan data mata pelajaran dan Pembelajaran Dapodik <br/>Perbaikan tampilan mata pelajaran pada mapping mapel dan guru mapel <br/>Perbaikan cetak pelengkap untuk menyesuaikan dengan setting tampilan NIP/NIY <br/>Penambahan Fitur 'Tambah Guru Lokal' <br/>Penambahan Fitur 'Ubah Guru Mengajar' <br/>Penambahan Fitur Ubah Wali Kelas <br/>Penambahan Fitur Update Aplikasi Online"
+  "changelog": "<fieldset class="fieldset">
+<legend><h3>versi 2025.1</h3></legend>
+	<ol>
+		<li><b style="color:blue"></b> Update pengambilan data mata pelajaran dan Pembelajaran Dapodik
+</li>
+		<li><b style="color:blue"></b> Perbaikan tampilan mata pelajaran pada mapping mapel dan guru mapel
+</li>
+		<li><b style="color:blue"></b> Perbaikan cetak pelengkap untuk menyesuaikan dengan setting tampilan NIP/NIY
+</li>
+		<li><b style="color:blue"></b> Perbaikan cetak pelengkap untuk menyesuaikan dengan isian pekerjaan orang tua wali siswa
+</li>
+		<li><b style="color:blue"></b> Penambahan Fitur 'Tambah Guru Lokal'
+</li>
+		<li><b style="color:blue"></b> Penambahan Fitur 'Ubah Guru Mengajar'
+</li>
+		<li><b style="color:blue"></b> Penambahan Fitur Ubah Wali Kelas
+</li>
+		<li><b style="color:blue"></b> Update edit data pelengkap siswa secara masal melalui import excel
+</li>
+		<li><b style="color:blue"></b> Penambahan fitur import data asesor/penguji eksternal dari file excel
+</li>
+		<li><b style="color:blue"></b> Penambahan fitur import data kelompok dan anggota kelompok PKL
+</li>
+		<li><b style="color:blue"></b> Update fitur cetak Rapor PKL dengan memberikan pilihan kolom tanda tangan kepala sekolah atau pembimbing DUDI
+</li>
+		<li><b style="color:blue"></b> Perbaikan login untuk mengunci akun yang sudah dinonaktifkan
+</li>
+		<li><b style="color:blue"></b> Menambah notifikasi untuk mengubah password jika masih menggunakan password standar
+</li>
+		<li><b style="color:blue"></b> Menambah Fitur Buat dan Cetak Surat Keterangan Lulus (SKL)
+</li>
+		<li><b style="color:blue"></b> Menambah Fitur UPPER, Proper atau Asli untuk tampilan Cetak Nama Siswa pada SKL dan Transkrip Nilai Ijazah
+</li>
+		<li><b style="color:blue"></b> Perbaikan fitur input kenaikan kelas
+</li>
+		<li><b style="color:blue"></b> Menambah Fitur Zoom Layar untuk penyesuaian tampilan
+</li>
+		<li><b style="color:blue"></b> Update tampilan sidebar aplikasi
+</li>
+		<li><b style="color:blue"></b> Update progres kerja admin
+</li>
+		<li><b style="color:blue"></b> Penambahan Fitur Pengiriman nilai UKK ke dapodik
+</li>
+		<li><b style="color:blue"></b> Penambahan Fitur Pengiriman nilai Transkrip Nilai Ijazah ke dapodik
+</li>
+		<li><b style="color:blue"></b> Update Fitur Pengiriman nilai ke dapodik untuk memfasilitasi perubahan nilai tidak normal dan perbaikan nilai 1 semester sebelumnya
+</li>
+		<li><b style="color:blue"></b> Penambahan Fitur Cek nilai Rapor yang terkirim ke dapodik
+</li>
+		<li><b style="color:blue"></b> Penambahan Fitur Cek nilai Transkrip Nilai UKK yang terkirim ke dapodik
+</li>
+		<li><b style="color:blue"></b> Penambahan Fitur Cek nilai Transkrip Nilai Ijazah yang terkirim ke dapodik
+</li>
+		<li><b style="color:blue"></b> Update sistem backup restore data e-Rapor
+</li>
+		 <li><b style="color:blue"></b> Penambahan Fitur Update Aplikasi Online</li>   
+	</ol>
+</fieldset>"
 }
